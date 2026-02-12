@@ -2,6 +2,8 @@
 
 FLUX.1 Fill introduces advanced inpainting and outpainting capabilities. It allows for seamless edits that integrate naturally with existing images.
 
+For detailed information about the model, including key features, limitations, and licensing, see the [FLUX.1 Fill [dev] model card](../model_cards/FLUX.1-Fill-dev.md).
+
 | Name                | HuggingFace repo                                         | License                                                               | sha256sum                                                        |
 | ------------------- | -------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | `FLUX.1 Fill [dev]` | https://huggingface.co/black-forest-labs/FLUX.1-Fill-dev | [FLUX.1-dev Non-Commercial License](model_licenses/LICENSE-FLUX1-dev) | 03e289f530df51d014f48e675a9ffa2141bc003259bf5f25d75b957e920a41ca |
